@@ -8,3 +8,26 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+/.env
+/vendor/
+/node_modules/
+/public/bundles/
+/var/
+!/var/cache/
+!/var/logs/
+!/var/sessions/
+/.phpunit.result.cache
+/.php_cs.cache
+/build/
+/dist/
+/doc/phpdoc/
+/phpdoc.cache
+/phpstan.neon
+/phpstan.phar
+/tests/Application/
+/tests/Behat/
+/tests/bootstrap.php.cache
+/tests/Functional/
+/tests/unit/
+/.idea/
+/.vscode/
